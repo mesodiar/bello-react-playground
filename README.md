@@ -3,6 +3,8 @@
 ![](https://github.com/mesodiar/bello-react-playground/blob/master/note/React-2.jpg?raw=true)
 ![](https://github.com/mesodiar/bello-react-playground/blob/master/note/React-3.jpg?raw=true)
 ![](https://github.com/mesodiar/bello-react-playground/blob/master/note/React-4.jpg?raw=true)
+![](https://github.com/mesodiar/bello-react-playground/blob/master/note/React-5.jpg?raw=true)
+![](https://github.com/mesodiar/bello-react-playground/blob/master/note/React-6.jpg?raw=true)
 
 ### JSX Prevents Injection Attacks
 
