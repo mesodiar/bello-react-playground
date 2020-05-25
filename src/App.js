@@ -2,6 +2,7 @@ import React from "react";
 import Clock from "./Clock";
 import Toggle from "./Toggle";
 import NameForm from "./NameForm";
+import Routing from "./Routing";
 import "./App.css";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Clock />
       <Toggle />
       <NameForm />
+      <Routing />
     </div>
   );
 }
